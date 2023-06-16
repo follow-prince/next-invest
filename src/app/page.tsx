@@ -67,6 +67,7 @@ export default function Home() {
 
 
 
+Greetings! Thought I would drop a line. What have you been up to?
 Hey! Hope your day is going great. How are you?
 Hey! I hope you are doing well. Anything interesting happening?
 Hi there! I hope you are doing well. How are you?
