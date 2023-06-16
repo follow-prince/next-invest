@@ -67,41 +67,6 @@ export default function Home() {
 
 
 
-Hello! Thought I would drop a line. How are you?
-Hello! Hope your day is going great. Any exciting news?
-Hey! I hope you are doing well. What have you been up to?
-Greetings! Thought I would drop a line. What have you been up to?
-Hey! Hope your day is going great. How are you?
-Hey! I hope you are doing well. Anything interesting happening?
-Hi there! I hope you are doing well. How are you?
-Hey! I hope you are doing well. Any exciting news?
-Hi there! Thought I would drop a line. Any exciting news?
-Hi there! Hope your day is going great. Any exciting news?
-Hey! Thought I would drop a line. What have you been up to?
-Hi there! I hope you are doing well. How are you?
-Greetings! Just wanted to say hi. Any exciting news?
-Hello! Thought I would drop a line. How are you?
-Hello! Thought I would drop a line. What have you been up to?
-Hi there! I hope you are doing well. What have you been up to?
-Hello! Thought I would drop a line. Any exciting news?
-Hi there! Thought I would drop a line. What have you been up to?
-Greetings! Hope your day is going great. Anything interesting happening?
-Hello! Hope your day is going great. Anything interesting happening?
-Hello! Hope your day is going great. What have you been up to?
-Hey! Thought I would drop a line. What have you been up to?
-Hello! Just wanted to say hi. Anything interesting happening?
-Hello! Just wanted to say hi. Anything interesting happening?
-Hello! I hope you are doing well. Any exciting news?
-Hi there! I hope you are doing well. How are you?
-Hello! I hope you are doing well. Any exciting news?
-Greetings! Thought I would drop a line. What have you been up to?
-Hi there! Just wanted to say hi. How are you?
-Hi there! I hope you are doing well. How are you?
-Greetings! I hope you are doing well. What have you been up to?
-Hi there! I hope you are doing well. Any exciting news?
-Hey! Hope your day is going great. Any exciting news?
-               
-
 
 
 
